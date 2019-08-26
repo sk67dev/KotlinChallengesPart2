@@ -1,8 +1,6 @@
 # Kotlin Challenges :computer:
 **Kotlin Challenges (Part2)**
 
-
-**KOTLIN CODING CHALLENGES**
 This repository contains a set of Kotlin coding challenges together with the solutions.
 **Kotlin Challenges Part 1 is [here](https://github.com/SK1dev/KotlinChallenges)**
 
