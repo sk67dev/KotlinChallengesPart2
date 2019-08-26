@@ -1,6 +1,5 @@
-# KotlinChallengesPart2
-Kotlin Challenges (Part2)
 # Kotlin Challenges :computer:
+**Kotlin Challenges (Part2)**
 
 
 **KOTLIN CODING CHALLENGES**
