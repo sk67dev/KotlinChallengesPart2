@@ -1,11 +1,11 @@
 //SOLUTION 1: Using the it keyword.
-/*fun main() {
+fun main() {
     val greetingFunction: (String) -> String = {
         val guestName = "Helena"
         "Welcome to Blue Coral Resort $guestName and $it"
     }
     println(greetingFunction("Amelie"))
-}*/
+}
 
 
 //SOLUTION 2:
