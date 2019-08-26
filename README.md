@@ -32,13 +32,13 @@ CHALLENGES:
   **[Solution](AnonymousGreetingFunction.kt)**
   
 **4. Assign Anonymous Greeting to a Variable**
-    First complete this challenge [here](AnonymousGreetingFunction.kt). 
+    First complete the challenge above(AnonymousGreetingFunction). 
     Then using Function Type, assign the anonymous greeting function to a variable.
     
   **[Solution](AssignAnonymousGreetingFunctionToVariable.kt)**
   
 **5. Add guest to Anonymous Greeting Function**
-    First complete these challenges [here](AnonymousGreetingFunction.kt) and [here]    (AssignAnonymousGreetingFunctionToVariable.kt). 
+    First complete the two challenges above (AnonymousGreetingFunction and AssignAnonymousGreetingFunctionToVariable). 
     Then add a guest2 who will be greeted with the original guest.
     
   **[Solution](AddGuestToAnonymousGreetingFunction.kt)**
