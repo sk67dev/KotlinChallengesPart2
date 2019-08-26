@@ -51,11 +51,13 @@ CHALLENGES:
   
   
 **7. Use Lambda to Square Number**
+
     Create a lambda that produces the square of a number.    
     
   **[Solution](LambdaToSquareNumber.kt)**
   
 **8. Calculate a Grade using a Lambda**
+
     Calculate a grade using a lambda.
   
   **[Solution](LambdaGradeCalc.kt)**
@@ -70,7 +72,9 @@ CHALLENGES:
 **10.Number Limit**
     Write a function which takes three number arguments (one number as an input and the other two numbers 
     representing the lowest and highest points of the range). If the number falls within the range, print 
-    the number. If the number is less than the lower limit of the range, print the     
+    the number. If the number is less than the lower limit of the range, print the lowest limit number and 
+    if the number is greater than the upper limit of the range, print the highest number.
+    
     
   **[Solution](NumberLimit.kt)**
   
